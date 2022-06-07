@@ -1,7 +1,8 @@
 # pneumonia-detection
-Pneumonia detection on chest x-ray images using convolutional neural networks
+Pneumonia detection on chest x-ray images using deep learning
 
 The dataset is from Kaggle:
+
 https://www.kaggle.com/datasets/tolgadincer/labeled-chest-xray-images
 
 ## Pneumonia
